@@ -26,7 +26,7 @@ Servicios Usados:
 
 ## 🛠️ Instalacion
 ***
-Para poder ejecutar este repositorio, primero se debe tener instalado```node 18.14.2``` de igual forma de tener una cuenta en AWS, para estas practicas se uso una cuenta gratis
+Para poder ejecutar este repositorio, primero se debe tener instalado```node 18.14.2``` de igual forma tener una cuenta en AWS, para estas practicas se uso una cuenta gratis, recomendable usar Postman para probar los endpoints
 ```
 $ git clone https://github.com/JDOV7/Ejercicios-AWS.git
 $ cd ../path/to/the/file
