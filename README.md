@@ -28,7 +28,7 @@ Servicios Usados:
 ***
 Para poder ejecutar este repositorio, primero se debe tener instalado```node 18.14.2``` de igual forma de tener una cuenta en AWS, para estas practicas se uso una cuenta gratis
 ```
-$ git clone https://github.com/JDOV7/Meeti.git
+$ git clone https://github.com/JDOV7/Ejercicios-AWS.git
 $ cd ../path/to/the/file
 $ npm install
 $ npm run start
