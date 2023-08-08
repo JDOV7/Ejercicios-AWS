@@ -17,19 +17,21 @@ En Public se encuentran algunos recursos que sirven para poder realizar las prac
 
 Servicios Usados:
 
-- [S3](https://aws.amazon.com/es/s3/)
+- [AWS S3](https://aws.amazon.com/es/s3/)
+- [AWS Cognito](https://aws.amazon.com/es/cognito/)
 
 ## 💻 Tecnologias
 
 ---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-marker?logo=javascript&logoColor=black&color=F7DF1E) ![NodeJS](https://img.shields.io/badge/NodeJS-marker?logo=nodedotjs&labelColor=white) ![Express](https://img.shields.io/badge/Express-marker?color=white) ![AWS](https://img.shields.io/badge/AWS-marker?logo=amazonaws&logoColor=amazonaws&labelColor=%23232F3E&color=orange) ![AWS S3](https://img.shields.io/badge/Amazon%20S3-marker?logo=amazons3&logoColor=%23569A31&color=orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-marker?logo=javascript&logoColor=black&color=F7DF1E) ![NodeJS](https://img.shields.io/badge/NodeJS-marker?logo=nodedotjs&labelColor=white) ![Express](https://img.shields.io/badge/Express-marker?color=white) ![AWS](https://img.shields.io/badge/AWS-marker?logo=amazonaws&logoColor=amazonaws&labelColor=%23232F3E&color=orange) ![AWS S3](https://img.shields.io/badge/AWS%20S3-marker?logo=amazons3&logoColor=%23569A31&color=orange) ![AWS Cognito](https://img.shields.io/badge/AWS%20Cognito-marker?color=orange)
+
 
 Tecnologias usadas:
 
 - [NodeJS](https://nodejs.org/es): Version 18.14.2
 - [Express](https://expressjs.com): Version 4.18.2
-- [AWS](https://aws.amazon.com/es/): SDK V3
+- [AWS](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/introduction/): SDK V3
 - [Multer](https://www.npmjs.com/package/multer): Version 1.4.5-lts.1
 - [Multer S3](https://www.npmjs.com/package/multer-s3): Version 3.0.1
 

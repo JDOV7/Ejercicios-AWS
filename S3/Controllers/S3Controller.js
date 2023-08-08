@@ -146,7 +146,20 @@ const subiendoObjecto = (req, res) => {
 
 // Datos: Key, Expression
 // Key: el nombre del objecto en este caso un JSON
-// Expression: la sentencia SQL necesaria para buscar 
+// Expression: la sentencia SQL necesaria para buscar
+/**
+ * 
+ * Ejemplo 1
+  {
+    "Key":"Path para Trabajadores",
+    "Expression":"SELECT s.Nombre, s.Puesto FROM s3object[*][*] s where s.Puesto.Cargo= 'Asistente' ;"
+  }
+ * Ejemplo 2
+  {
+    "Key":"Path para dragon_stats_one.json",
+    "Expression":"SELECT s.dragon_name_str, s.description_str FROM s3object[*][*] s where  s.family_str='red';"
+  }
+ * **/
 const buscandoDentroDeUnJSON = async (req, res) => {
   try {
     const { Key, Expression } = req.body;

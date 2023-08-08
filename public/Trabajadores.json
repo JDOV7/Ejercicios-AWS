@@ -1,0 +1,288 @@
+[
+    {
+        "Nombre": "Jesus",
+        "Apellido": "Ochoa",
+        "Correo": "jes8@gmail.com",
+        "Celular": "2134567890",
+        "Direccion": "Calle Olivo 4, Buenavista, Mexico, Veracruz, Ver",
+        "Puesto": {
+            "Cargo": "Cajero",
+            "Sueldo": 2500,
+            "HoraEntrada": "09:00",
+            "HoraSalida": "18:00"
+        }
+    },
+    {
+        "Nombre": "Ana",
+        "Apellido": "Garcia",
+        "Correo": "ana.garcia@example.com",
+        "Celular": "9876543210",
+        "Direccion": "Avenida Rosa 8, Ciudad de Mexico, Mexico, CDMX",
+        "Puesto": {
+            "Cargo": "Gerente",
+            "Sueldo": 5000,
+            "HoraEntrada": "08:00",
+            "HoraSalida": "17:00"
+        }
+    },
+    {
+        "Nombre": "Luis",
+        "Apellido": "Perez",
+        "Correo": "luis.perez@example.com",
+        "Celular": "5678901234",
+        "Direccion": "Calle Azul 12, Monterrey, Mexico, Nuevo Leon",
+        "Puesto": {
+            "Cargo": "Vendedor",
+            "Sueldo": 2800,
+            "HoraEntrada": "10:00",
+            "HoraSalida": "19:00"
+        }
+    },
+    {
+        "Nombre": "Maria",
+        "Apellido": "Rodriguez",
+        "Correo": "maria.rodriguez@example.com",
+        "Celular": "6543210987",
+        "Direccion": "Calle Verde 5, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Asistente",
+            "Sueldo": 2200,
+            "HoraEntrada": "09:30",
+            "HoraSalida": "18:30"
+        }
+    },
+    {
+        "Nombre": "Nadia",
+        "Apellido": "Portugal",
+        "Correo": "nadia.portugal@example.com",
+        "Celular": "2134658790",
+        "Direccion": "Calle Verde 6, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Asistente",
+            "Sueldo": 2900,
+            "HoraEntrada": "09:30",
+            "HoraSalida": "18:30"
+        }
+    },
+    {
+        "Nombre": "Erika",
+        "Apellido": "Portugal",
+        "Correo": "erika.portugal@example.com",
+        "Celular": "2243765890",
+        "Direccion": "Calle Verde 7, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Vendedor",
+            "Sueldo": 3200,
+            "HoraEntrada": "10:30",
+            "HoraSalida": "17:30"
+        }
+    },
+    {
+        "Nombre": "Rosa",
+        "Apellido": "Portugal",
+        "Correo": "rosa.portugal@example.com",
+        "Celular": "2243765510",
+        "Direccion": "Calle Verde 8, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Gerente",
+            "Sueldo": 3600,
+            "HoraEntrada": "10:30",
+            "HoraSalida": "17:30"
+        }
+    },
+    {
+        "Nombre": "Angel",
+        "Apellido": "Portugal",
+        "Correo": "angel.portugal@example.com",
+        "Celular": "2413674089",
+        "Direccion": "Calle Verde 9, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Cajero",
+            "Sueldo": 2500,
+            "HoraEntrada": "11:30",
+            "HoraSalida": "19:30"
+        }
+    },
+    {
+        "Nombre": "Gabriel",
+        "Apellido": "Portugal",
+        "Correo": "gabriel.portugal@example.com",
+        "Celular": "2019384756",
+        "Direccion": "Calle Verde 10, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Asistente",
+            "Sueldo": 2900,
+            "HoraEntrada": "09:30",
+            "HoraSalida": "17:30"
+        }
+    },
+    {
+        "Nombre": "Jesus",
+        "Apellido": "Portugal",
+        "Correo": "jesus.portugal@example.com",
+        "Celular": "2290080706",
+        "Direccion": "Calle Verde 11, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Asistente",
+            "Sueldo": 2900,
+            "HoraEntrada": "09:30",
+            "HoraSalida": "17:30"
+        }
+    },
+    {
+        "Nombre": "Daniel",
+        "Apellido": "Portugal",
+        "Correo": "daniel.portugal@example.com",
+        "Celular": "2270695873",
+        "Direccion": "Calle Verde 12, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Cajero",
+            "Sueldo": 2900,
+            "HoraEntrada": "09:30",
+            "HoraSalida": "17:30"
+        }
+    },
+    {
+        "Nombre": "Martha",
+        "Apellido": "Portugal",
+        "Correo": "martha.portugal@example.com",
+        "Celular": "2271695873",
+        "Direccion": "Calle Verde 13, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Vendedor",
+            "Sueldo": 4500,
+            "HoraEntrada": "10:30",
+            "HoraSalida": "18:30"
+        }
+    },
+    {
+        "Nombre": "Jaime",
+        "Apellido": "Portugal",
+        "Correo": "jaime.portugal@example.com",
+        "Celular": "2260597311",
+        "Direccion": "Calle Verde 14, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Vendedor",
+            "Sueldo": 4500,
+            "HoraEntrada": "10:30",
+            "HoraSalida": "18:30"
+        }
+    },
+    {
+        "Nombre": "Nadia",
+        "Apellido": "Martinez",
+        "Correo": "nadia.martinez@example.com",
+        "Celular": "2134658745",
+        "Direccion": "Calle Azul 6, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Asistente",
+            "Sueldo": 3000,
+            "HoraEntrada": "09:30",
+            "HoraSalida": "18:30"
+        }
+    },
+    {
+        "Nombre": "Erika",
+        "Apellido": "Martinez",
+        "Correo": "erika.martinez@example.com",
+        "Celular": "2243756890",
+        "Direccion": "Calle Azul 7, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Vendedor",
+            "Sueldo": 3200,
+            "HoraEntrada": "10:30",
+            "HoraSalida": "17:30"
+        }
+    },
+    {
+        "Nombre": "Rosa",
+        "Apellido": "Martinez",
+        "Correo": "rosa.martinez@example.com",
+        "Celular": "2243775512",
+        "Direccion": "Calle Cafe 8, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Gerente",
+            "Sueldo": 3600,
+            "HoraEntrada": "10:30",
+            "HoraSalida": "17:30"
+        }
+    },
+    {
+        "Nombre": "Angel",
+        "Apellido": "Martinez",
+        "Correo": "angel.martinez@example.com",
+        "Celular": "2413671144",
+        "Direccion": "Calle Amarillo 9, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Cajero",
+            "Sueldo": 4600,
+            "HoraEntrada": "12:30",
+            "HoraSalida": "19:30"
+        }
+    },
+    {
+        "Nombre": "Gabriel",
+        "Apellido": "Martinez",
+        "Correo": "gabriel.martinez@example.com",
+        "Celular": "2019364789",
+        "Direccion": "Calle Negro 10, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Asistente",
+            "Sueldo": 3100,
+            "HoraEntrada": "09:00",
+            "HoraSalida": "17:00"
+        }
+    },
+    {
+        "Nombre": "Jesus",
+        "Apellido": "Martinez",
+        "Correo": "jesus.martinez@example.com",
+        "Celular": "2291284716",
+        "Direccion": "Calle Verde 11, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Asistente",
+            "Sueldo": 2900,
+            "HoraEntrada": "09:30",
+            "HoraSalida": "17:30"
+        }
+    },
+    {
+        "Nombre": "Daniel",
+        "Apellido": "Martinez",
+        "Correo": "daniel.martinez@example.com",
+        "Celular": "2201030457",
+        "Direccion": "Calle Verde 22, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Cajero",
+            "Sueldo": 3500,
+            "HoraEntrada": "09:30",
+            "HoraSalida": "17:30"
+        }
+    },
+    {
+        "Nombre": "Martha",
+        "Apellido": "Martinez",
+        "Correo": "martha.martinez@example.com",
+        "Celular": "2274696893",
+        "Direccion": "Calle Blanco 13, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Vendedor",
+            "Sueldo": 4500,
+            "HoraEntrada": "10:30",
+            "HoraSalida": "18:30"
+        }
+    },
+    {
+        "Nombre": "Jaime",
+        "Apellido": "Martinez",
+        "Correo": "jaime.martinez@example.com",
+        "Celular": "2269597333",
+        "Direccion": "Calle Morado 14, Guadalajara, Mexico, Jalisco",
+        "Puesto": {
+            "Cargo": "Vendedor",
+            "Sueldo": 4500,
+            "HoraEntrada": "10:30",
+            "HoraSalida": "18:30"
+        }
+    }
+]
